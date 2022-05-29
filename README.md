@@ -4,5 +4,5 @@ An Exam system that depends on two types of exams, the training exam and the fin
 # Used : 
 --C# OOP 
 --Solid Princables :
-# Single Reposatoriy
-# Open Closed Princable
+#### Single Reposatoriy
+#### Open Closed Princable
