@@ -21,7 +21,7 @@ namespace Examination
             QuestionList questions = new QuestionList("questions.txt");
             questions.Add(q1);
             questions.Add(q2);
-            //questions.Add(q3);
+            
 
             QuestionList questionsFinal = new QuestionList("questionsFinal.txt");
             questionsFinal.Add(q1);
