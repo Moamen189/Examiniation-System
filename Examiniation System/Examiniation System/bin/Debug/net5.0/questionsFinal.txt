@@ -1,0 +1,171 @@
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+
+which access modifier allows access of parent attributes in child class	Marks: 5
+Choose One:
+0.private
+1.protected
+2.public
+
+can a class inherit mupltiple classes in c#	Marks: 5
+Choose True or False:
+0.true
+1.false
+
+choose access modifiers in classes	Marks: 4
+Choose all the correct answers:
+0.private
+1.protected
+2.public
+3.internal
+4.free
+

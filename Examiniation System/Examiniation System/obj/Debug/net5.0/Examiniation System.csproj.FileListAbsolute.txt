@@ -1,0 +1,32 @@
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.exe
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.deps.json
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.runtimeconfig.json
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.runtimeconfig.dev.json
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.dll
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\ref\Examiniation System.dll
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.pdb
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.csproj.AssemblyReference.cache
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.AssemblyInfoInputs.cache
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.AssemblyInfo.cs
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.csproj.CoreCompileInputs.cache
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.dll
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\ref\Examiniation System.dll
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.pdb
+C:\Users\Momen\Desktop\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.genruntimeconfig.cache
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.exe
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.deps.json
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.runtimeconfig.json
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.runtimeconfig.dev.json
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.dll
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\ref\Examiniation System.dll
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\bin\Debug\net5.0\Examiniation System.pdb
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.csproj.AssemblyReference.cache
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.AssemblyInfoInputs.cache
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.AssemblyInfo.cs
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.csproj.CoreCompileInputs.cache
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.dll
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\ref\Examiniation System.dll
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.pdb
+D:\.Net Route\C#\OOP\Week 07\Day 02\Examiniation System\Examiniation System\obj\Debug\net5.0\Examiniation System.genruntimeconfig.cache
