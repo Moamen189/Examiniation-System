@@ -17,6 +17,7 @@ namespace Examiniation_System
 
         public string getName() { return Name; }
         public void SetNames(string Name) { this.Name = Name; }
+      //Destructor
 
         ~Subject()
         {
