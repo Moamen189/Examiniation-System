@@ -70,20 +70,7 @@ namespace Examiniation_System.Exam
             {
                 Console.WriteLine("Exam is Empty");
             }
-            //if (Questions.Count > 0)
-            //{
-            //    Console.WriteLine(Subject.getName() + " Exam\t" + Date + "\nNumber of Questions:" + Questions.Count);
-            //    for (int i = 0; i < Questions.Count; i++)
-            //    {
-            //        Console.Write("Q" + (i + 1) + " ");
-            //        Questions[i].printQuestion();
-            //        Console.WriteLine();
-            //    }
-            //}
-            //else
-            //{
-            //    Console.WriteLine("Exam is Empty");
-            //}
+           
 
         }
     }
