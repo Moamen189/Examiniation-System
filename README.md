@@ -6,4 +6,5 @@
 #### Solid Princables :
 #### Single Reposatoriy
 #### Open Closed Princable
+#### Observer Desgin Patern
 
